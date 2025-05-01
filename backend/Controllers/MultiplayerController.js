@@ -9,7 +9,7 @@ const {
 const { User } = require("../models/user");
 
 class MultiplayerController {
-  // Update player performance
+//update
   static async updatePerformance(req, res) {
     try {
       const { error } = validatePerformanceUpdate(req.body);

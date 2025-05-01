@@ -7,8 +7,7 @@ router.post('/add', async (req, res) => {
     console.log('📌 Received request to add game session:', req.body);
 
     const { textUsed, score, wpm, accuracy, sessionTime, userId, email } = req.body;
-
-    // Validate input data
+//validate
     const { error } = validateGameSession(req.body);
     if (error) {
       console.warn('⚠️ Validation error:', error.details[0].message);
