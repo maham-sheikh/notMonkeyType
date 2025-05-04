@@ -8,8 +8,8 @@ NotMonkeytype is an engaging web-based typing game, influenced by the popular Mo
 
 ## 👨‍💻 Group Members
 
-- Maham Javed (21L-1845)
-- Abdul Muhaymen (21L-5603)
+- Maham Javed
+- Abdul Muhaymen
 
 ## ✨ Features
 
